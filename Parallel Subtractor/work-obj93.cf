@@ -1,0 +1,7 @@
+v 4
+file . "ps_tb.vhdl" "3352acab7bc306aa84b136412d835c8c93d3e995" "20240427064058.293":
+  entity ps_tb at 1( 0) + 0 on 17;
+  architecture test of ps_tb at 7( 79) + 0 on 18;
+file . "ps.vhdl" "469fb9a4b46093b0be0cee5ddc0e6a500f7f39ff" "20240427064058.246":
+  entity ps at 1( 0) + 0 on 15;
+  architecture behave of ps at 11( 202) + 0 on 16;

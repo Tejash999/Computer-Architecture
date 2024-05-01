@@ -1,0 +1,7 @@
+v 4
+file . "notgate_tb.vhdl" "ffb4185a07cf7d2b08fe55f50a682245dc8cfda9" "20240109061315.154":
+  entity notl_tb at 1( 0) + 0 on 13;
+  architecture test of notl_tb at 6( 80) + 0 on 14;
+file . "not.vhdl" "b757386bde91afbb75119a1aadcdc0867dbb2307" "20240109061309.600":
+  entity notl at 1( 0) + 0 on 11;
+  architecture behave of notl at 10( 109) + 0 on 12;

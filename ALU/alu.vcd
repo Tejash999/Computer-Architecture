@@ -1,0 +1,71 @@
+$date
+  Thu Apr 18 23:45:32 2024
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 4 ! inp_a[3:0] $end
+$var reg 4 " inp_b[3:0] $end
+$var reg 3 # sel[2:0] $end
+$var reg 4 $ out_alu[3:0] $end
+$scope module uut $end
+$var reg 4 % inp_a[3:0] $end
+$var reg 4 & inp_b[3:0] $end
+$var reg 3 ' sel[2:0] $end
+$var reg 4 ( out_alu[3:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+b0000 !
+b0000 "
+b000 #
+b0000 $
+b0000 %
+b0000 &
+b000 '
+b0000 (
+#100000000
+b0110 !
+b0011 "
+b1001 $
+b0110 %
+b0011 &
+b1001 (
+#200000000
+b001 #
+b0011 $
+b001 '
+b0011 (
+#300000000
+b010 #
+b0101 $
+b010 '
+b0101 (
+#400000000
+b011 #
+b0111 $
+b011 '
+b0111 (
+#500000000
+b100 #
+b0010 $
+b100 '
+b0010 (
+#600000000
+b101 #
+b0111 $
+b101 '
+b0111 (
+#700000000
+b110 #
+b1001 $
+b110 '
+b1001 (
+#800000000
+b111 #
+b0101 $
+b111 '
+b0101 (

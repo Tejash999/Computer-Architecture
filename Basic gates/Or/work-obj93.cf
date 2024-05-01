@@ -1,0 +1,7 @@
+v 4
+file . "orgate_tb.vhdl" "3cbfdc8994966e37827d5c9bd8f23ba1ced262f7" "20240109053720.468":
+  entity orl_tb at 1( 0) + 0 on 17;
+  architecture test of orl_tb at 6( 78) + 0 on 18;
+file . "or.vhdl" "121ebe7ae8b3fbe8a14bf6800fb613bf1aa577b1" "20240109053715.413":
+  entity orl at 1( 0) + 0 on 15;
+  architecture behave of orl at 10( 109) + 0 on 16;
